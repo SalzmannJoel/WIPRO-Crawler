@@ -26,8 +26,8 @@ class AstroportalSpider(scrapy.Spider):
     def parse(self, response):
         sign = response.url.split("/")[-2]
         horoskoptext = response.css("div#content>div>div>p:first-of-type::text").extract_first()
-        with open("astroportalHoroskops.txt", "a") as horoskopfile:
-            horoskopfile.write(sign)
-            horoskopfile.write(":")
-            horoskopfile.write(horoskoptext)
-            horoskopfile.write("\n")
+        # with open("astroportalHoroskops.txt", "a") as horoskopfile:
+        #     horoskopfile.write(sign)
+        #     horoskopfile.write(":")
+        #     horoskopfile.write(horoskoptext)
+        #     horoskopfile.write("\n")
