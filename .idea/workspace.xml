@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681adffa-eb29-4574-97d5-c07c9b6192c5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/astroportal.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/astroportal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/blick.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/blick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/glueckspost.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/glueckspost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/gmx.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/gmx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/manticus.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/manticus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/natune.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/natune.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/sat1.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/sat1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/schweizerillustrierte.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/schweizerillustrierte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/tonline.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/tonline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/twentyminutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/twentyminutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/viversum.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/viversum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,6 +55,11 @@
             </path>
             <path>
               <item name="WIPRO-Crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WIPRO-Crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="crawlern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WIPRO-Crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -47,7 +70,11 @@
     </panes>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\salzm\PycharmProjects\WIPRO-Crawler" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\salzm\PycharmProjects\WIPRO-Crawler\crawler\crawler\spiders" />
       <recent name="C:\Users\salzm\PycharmProjects\WIPRO-Crawler" />
     </key>
   </component>
@@ -118,6 +145,15 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/astroportalHoroskops.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlern/spiders/astroportal.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
