@@ -30,7 +30,7 @@ class AstroportalSpider(scrapy.Spider):
             'sign' : sign,
             'horoskop' : horoskoptext,
         }
-        print(item)
+        yield item
         # with open("astroportalHoroskops.txt", "a") as horoskopfile:
         #     horoskopfile.write(sign)
         #     horoskopfile.write(":")
