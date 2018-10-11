@@ -41,10 +41,3 @@ class TonlineSpider(scrapy.Spider):
         if not checkstring:
             response = False
         return response
-
-process = CrawlerProcess({
-    'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
-})
-
-process.crawl(TonlineSpider)
-process.start()

@@ -32,10 +32,3 @@ class GmxSpider(scrapy.Spider):
                 horoskopfile.write(":")
                 horoskopfile.write(horoskoptext)
                 horoskopfile.write("\n")
-
-process = CrawlerProcess({
-    'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
-})
-
-process.crawl(GmxSpider)
-process.start()

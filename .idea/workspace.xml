@@ -2,25 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681adffa-eb29-4574-97d5-c07c9b6192c5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/astroportal.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/astroportal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/blick.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/blick.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/glueckspost.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/glueckspost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/gmx.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/gmx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/manticus.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/manticus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/natune.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/natune.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/sat1.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/sat1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/schweizerillustrierte.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/schweizerillustrierte.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/tonline.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/tonline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/twentyminutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/twentyminutes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler/spiders/viversum.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawlern/spiders/viversum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/astroportal.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/astroportal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/blick.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/blick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/glueckspost.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/glueckspost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/gmx.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/gmx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/manticus.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/manticus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/natune.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/natune.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/sat1.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/sat1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/schweizerillustrierte.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/schweizerillustrierte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/tonline.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/tonline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/twentyminutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/twentyminutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/spiders/viversum.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/spiders/viversum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,10 +22,148 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="twentyminutes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/twentyminutes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tonline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/tonline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schweizerillustrierte.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/schweizerillustrierte.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sat1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/sat1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="natune.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/natune.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manticus.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/manticus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gmx.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/gmx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glueckspost.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/glueckspost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blick.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/blick.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="astroportal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawler/spiders/astroportal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/crawler/spiders/viversum.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/twentyminutes.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/tonline.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/schweizerillustrierte.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/sat1.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/natune.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/manticus.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/gmx.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/glueckspost.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/blick.py" />
+        <option value="$PROJECT_DIR$/crawler/spiders/astroportal.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="327" />
@@ -46,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -56,7 +187,13 @@
             <path>
               <item name="WIPRO-Crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="WIPRO-Crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="crawlern" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WIPRO-Crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WIPRO-Crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WIPRO-Crawler" type="b2602c69:ProjectViewProjectNode" />
@@ -66,7 +203,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -105,56 +241,144 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496474" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32916147" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32916147" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spiders/astroportal.py">
+    <entry file="file://$PROJECT_DIR$/spiders/astroportal.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/viversum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="369">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spiders/gmx.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/twentyminutes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/lib/crawler/spiders/gmx.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/tonline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/schweizerillustrierte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/astroportalHoroskops.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/sat1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/natune.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawlern/spiders/astroportal.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/manticus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/gmx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/glueckspost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/blick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/spiders/astroportal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
